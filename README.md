@@ -1,4 +1,8 @@
 
+### LAV-ACT: Language-Augmented Visual Action Chunking with Transformers for Bimanual Robotic Manipulation
+
+Project page: https://dktpt44.github.io/LAV-ACT/
+
 # Improving ACT with pre-trained represention
 
 ## What's Changed
